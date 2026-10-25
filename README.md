@@ -65,7 +65,7 @@ A social media interface built with React and modern frontend tools.
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [amr-yahia-66b6bb200](https://www.linkedin.com/in/amr-yahia-66b6bb200)
+- **LinkedIn:** [amr-yahia-66b6bb200](https://www.linkedin.com/in/3mroyahia)
 - **Email:** [yahiaamr892@gmail.com](mailto:yahiaamr892@gmail.com)
 
 ---
